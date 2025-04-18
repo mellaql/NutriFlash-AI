@@ -1,0 +1,14 @@
+[
+    {
+        "titulo": "Nuevo estudio: la dieta DASH mejora la salud del corazón",
+        "categoria": "Científica (Español)",
+        "descripcion": "La dieta DASH se asocia con una significativa reducción de la hipertensión arterial.",
+        "url": "https://ejemplo.com/dieta-dash"
+    },
+    {
+        "titulo": "Fasting helps reduce inflammation, study shows",
+        "categoria": "Científica (Inglés)",
+        "descripcion": "Researchers confirm intermittent fasting regulates inflammation in the body.",
+        "url": "https://example.com/fasting-benefits"
+    }
+]
